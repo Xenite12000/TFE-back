@@ -1,6 +1,7 @@
 Pour installer le backend réaliser les commandes avec un serveur de bases de données lancées (XAMPP dans mon cas) :
 
 php bin/console doctrine:database:create
+
 php bin/console d:m:m
 
 
